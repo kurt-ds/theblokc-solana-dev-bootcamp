@@ -1,0 +1,28 @@
+First block: March 16, 2020
+Consensus: Proof-of-stake
+
+The first block of a block chain is called the genesis.
+
+Advantages of Solana
+
+- Fast
+- Scalable
+- Decentralized
+- Energy Efficient
+
+High Transactions
+
+SOL - Solana's Native Token
+Partition of SOL - Leslie Lamport  - Lamport
+
+Solana Accounts are like files
+
+Keypair
+- Pair of keys: public keys and secret key
+
+Public keys are like addresses
+Secret keys are like authorization
+
+Solana works on JSON RPC API. 
+
+

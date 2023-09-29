@@ -1,0 +1,16 @@
+Why Learn CLI
+
+- Our development tooling runs on CLI i.e. npm, nvm, pip, gradle, etc.
+- Faster Navigation
+- More Freedom/control (be responsible)
+- ability to run or access servers
+
+ASSUMPTIONS
+- WSL is installed and using CLI in WSL workspace (Window Users)
+- Git is installed
+
+
+ls === show different files in the current directory.
+ls -a === This will show hidden files.
+ls -a -l === long list of files and hidden files.
+man (command) === to show details about the command
