@@ -1,1 +1,1 @@
-# theblokc-solana-dev-bootcamp
+# THE BLOKC SOLANA DEVELOPERS BOOTCAMP
