@@ -1,0 +1,10 @@
+/home/kurt-ds/rust_demo2/solana_demo/target/sbf-solana-solana/release/deps/solana_frozen_abi-aaac9295f5d4a4fb.rmeta: /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/lib.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_digester.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_example.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/hash.rs
+
+/home/kurt-ds/rust_demo2/solana_demo/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-aaac9295f5d4a4fb.rlib: /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/lib.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_digester.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_example.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/hash.rs
+
+/home/kurt-ds/rust_demo2/solana_demo/target/sbf-solana-solana/release/deps/solana_frozen_abi-aaac9295f5d4a4fb.d: /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/lib.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_digester.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_example.rs /home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/hash.rs
+
+/home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/lib.rs:
+/home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_digester.rs:
+/home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/abi_example.rs:
+/home/kurt-ds/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.16.15/src/hash.rs:
